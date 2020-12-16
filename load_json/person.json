@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Sharukh Khan",
+        "age":"50",
+        "height":"5feet 8 inch",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Akshay Kumar",
+        "age":"53",
+        "height":"5 feet 10 inch",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Salman Khan",
+        "age":"55",
+        "height":"5 feet 8 inch",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Shetty Universe",
+        "age":"43",
+        "height":"6 inch",
+        "gender":"male",
+        "hair_color":"black"
+    }
+]
